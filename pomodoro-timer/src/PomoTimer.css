@@ -1,0 +1,16 @@
+button {
+    background-color: #3F3351;
+    font-family: "Roboto Mono", monospace;
+    color: #E9A6A6;
+    border: 1px solid white;
+}
+
+.pomodoro {
+    font-size: 6em;
+  }
+  
+.message {
+    font-size: 0.5em;
+    min-height: 1.3em;
+    margin-bottom: 0.5em;
+  }
